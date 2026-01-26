@@ -1,6 +1,6 @@
-# OMARCHY-REDDCS Theme
+# Omarchy Caroline Skyline Theme
 
-OMARCHY-REDDCS blends warm clay browns, dusty rose, and ember accents into a cozy, late-night city glow with soft contrast.
+Caroline Skyline blends warm clay browns, dusty rose, and ember accents into a cozy, late-night city glow with soft contrast.
 
 ## Preview
 
@@ -11,7 +11,7 @@ OMARCHY-REDDCS blends warm clay browns, dusty rose, and ember accents into a coz
 Use the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS
+omarchy-theme-install https://github.com/OldJobobo/omarchy-caroline-skyline-theme
 ```
 
 ## What's included
@@ -29,12 +29,12 @@ omarchy-theme-install https://github.com/mohamedredachakir/LINUX-OMARCHY-REDDCS
 
 <table>
   <tr>
-    <td><img src="backgrounds/anime-girl-dragon-tattoo-4k-wallpaper-uhdpaper.com-628@0@j.jpg" width="220" alt="Anime Girl Dragon Tattoo"></td>
-    <td><img src="backgrounds/backiee-300488-landscape.jpg" width="220" alt="Landscape 300488"></td>
-    <td><img src="backgrounds/backiee-335899-landscape.jpg" width="220" alt="Landscape 335899"></td>
+    <td><img src="bgs/anime-girl-dragon-tattoo-4k-wallpaper-uhdpaper.com-628@0@j.jpg" width="220" alt="anime-girl-dragon-tattoo"></td>
+    <td><img src="bgs/backiee-300488-landscape.jpg" width="220" alt="backiee-300488-landscape"></td>
+    <td><img src="bgs/backiee-335899-landscape.jpg" width="220" alt="backiee-335899-landscape"></td>
   </tr>
 </table>
 
 ## Attribution
 
-- Theme customization by REDDCS
+- Caroline palette by ed (https://codeberg.org/ed)
