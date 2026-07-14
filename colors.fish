@@ -1,5 +1,5 @@
 set -U background '#1c1213'
-set -U foreground '#a87569'
+set -U foreground '#e3a68c'
 set -U cursor '#a87569'
 set -U color0 '#1c1213'
 set -U color1 '#c24f57'
@@ -21,7 +21,7 @@ set -U color15 '#e3a68c'
 set -U fish_color_normal normal
 set -U fish_color_command green
 set -U fish_color_param cyan
-set -U fish_pager_color_completion
+set -U fish_pager_color_completion normal
 set -U fish_pager_color_description $fish_color_quote yellow
 set -U fish_pager_color_progress brwhite --background=cyan
 set -U fish_color_history_current --bold
