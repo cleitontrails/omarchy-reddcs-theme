@@ -13,6 +13,13 @@ window#waybar {
   padding: 4px 0;
 }
 
+/* Make all modules transparent so only the bar container has the background.
+   Without this, the default omarchy style applies a solid @background to
+   every element, creating darker blocks inside the semi-transparent bar. */
+* {
+  background-color: transparent;
+}
+
 /* Ensure modules have enough vertical breathing room */
 #workspaces button,
 #tray,
