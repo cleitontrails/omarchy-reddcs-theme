@@ -4,7 +4,9 @@ A dark, warm-toned theme for [Omarchy](https://github.com/omarchy/omarchy) — c
 
 ## Preview
 
-![Theme preview](preview.png)
+![Desktop](preview.png)
+
+![Lock screen](preview-unlock.png)
 
 ## Install
 
