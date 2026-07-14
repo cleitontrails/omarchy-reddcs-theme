@@ -23,7 +23,7 @@ omarchy-theme-install https://github.com/cleitontrails/omarchy-reddcs-theme
 - **Shell/tools**: Fish colors (`colors.fish`), fzf (`fzf.fish`)
 - **Apps/UI**: GTK (`gtk.css`), Chromium (`chromium.theme`), Walker (`walker.css`)
 - **System tools**: btop (`btop.theme`), cava (`cava_theme`), Mako (`mako.ini`), SwayOSD (`swayosd.css`)
-- **Extras**: Steam (`steam.css`), Vencord (`vencord.theme.css`), Aether overrides (`aether.override.css`, `aether.zed.json`), Zed theme (`aether.zed.json`), keyboard RGB (`keyboard.rgb`), icons pointer (`icons.theme`), Neovim (`neovim.lua`), VS Code (`vscode.json`)
+- **Extras (applied by `omarchy-theme-hook`/`thpm`)**: Steam (`steam.css`), Vencord (`vencord.theme.css`), GTK (`gtk.css`), Cava (`cava_theme`), Zed (`zed.json`), Zen Browser (`zen.css`), Qt6 (`qt6ct.conf`), Superfile (`superfile.toml`), Aether overrides (`aether.override.css`), keyboard RGB (`keyboard.rgb`), icons pointer (`icons.theme`), Neovim (`neovim.lua`), VS Code (`vscode.json`)
 
 ## Credits
 
