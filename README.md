@@ -1,6 +1,6 @@
 # Omarchy REDDCS
 
-A dark, warm-toned theme for [Omarchy](https://github.com/omarchy/omarchy) — covering Hyprland, terminals, bars, launchers, and system apps.
+A dark, warm-toned theme for [Omarchy](https://github.com/omarchy/omarchy) Quattro.
 
 ## Preview
 
@@ -10,21 +10,20 @@ A dark, warm-toned theme for [Omarchy](https://github.com/omarchy/omarchy) — c
 
 ## Install
 
-Use the Omarchy theme installer:
-
 ```bash
 omarchy theme install https://github.com/cleitontrails/omarchy-reddcs-theme
 ```
 
 ## What's included
 
-- **Palette**: terminal palette (`colors.toml`), base16 source (`caroline.yaml`)
-- **Hyprland**: rules and opacity tuning (`hyprland.conf`), lock screen styling (`hyprlock.conf`)
-- **Waybar**: bar styling (`waybar.css`)
-- **Terminals**: Kitty (`kitty.conf`), Alacritty (`alacritty.toml`), Ghostty (`ghostty.conf`)
-- **Walker**: launcher styling (`walker.css`)
-- **System tools**: btop (`btop.theme`), Mako (`mako.ini`), SwayOSD (`swayosd.css`)
-- **Editors/UI**: Neovim (`neovim.lua`), VS Code (`vscode.json`), icons pointer (`icons.theme`)
+- **Palette**: semantic color palette (`colors.toml`), base16 source (`caroline.yaml`)
+- **VS Code**: Min Dark theme override (`vscode.json`)
+- **GTK icons**: Yaru-red (`icons.theme`)
+- **Backgrounds**: wallpaper (`backgrounds/`)
+- **Lock screen**: custom unlock image (`unlock.png`)
+- **Extras**: manual overrides for GTK, Qt, Steam, Zen, Zed, and more (`extras/`)
+
+All other config files (terminals, shell bar, notifications, menus, Hyprland borders, btop, Neovim, etc.) are auto-generated from `colors.toml` by the Omarchy theme engine.
 
 ## Credits
 
